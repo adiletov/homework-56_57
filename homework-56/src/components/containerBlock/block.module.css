@@ -1,0 +1,29 @@
+.blocks{
+    width: 70px;
+    height: 70px;
+    background: #1a4185;
+    border: 1px solid white;
+    line-height: 70px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+.tries{
+    width: 20%;
+    border: 1px solid black;
+    padding: 40px 10px;
+}
+.ship{
+    background: url(./../img/images.png) no-repeat;
+    background-size: 100%;
+
+}
+.white{
+    width: 70px;
+    height: 70px;
+    background: #ffffff;
+    border: 1px solid white;
+    line-height: 70px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+
